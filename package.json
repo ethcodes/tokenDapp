@@ -1,0 +1,29 @@
+{
+  "name": "mytoken",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xilibi2003/tokenDapp.git"
+  },
+  "keywords": [
+    "erc20"
+  ],
+  "author": "Tiny熊",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xilibi2003/tokenDapp/issues"
+  },
+  "homepage": "https://github.com/xilibi2003/tokenDapp#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
